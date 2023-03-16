@@ -1,0 +1,153 @@
+.logo{
+    position: relative;
+    top: 70px;
+    left: 600px;
+}
+a{
+    text-decoration: none;
+}
+.blue{
+    color: blue;
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.small{
+    font-size: small;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+#eng{
+  position: absolute;
+  left: 550px;
+  top: 120px;  
+}
+#lish{
+    position: absolute;
+    left: 520px;
+    top: 160px;
+}
+#pyc{
+    position: absolute;
+    top: 120px;
+    left: 800px;
+}
+#ckn{
+    position: absolute;
+    left: 780px;
+    top: 160px;
+}
+#esp{
+    position: absolute;
+    top: 180px;
+    left: 500px;
+}
+#anol{
+    position: absolute;
+    left: 470px;
+    top: 220px;
+}
+#chi{
+    position: absolute;
+    top: 190px;
+    left: 850px;
+}
+#nis{
+    position: absolute;
+    top: 230px;
+    left: 840px;
+}
+#deut{
+    position: absolute;
+    top: 250px;
+    left: 480px;
+}
+#sch{
+    position: absolute;
+    top: 290px;
+    left: 450px;
+}
+#fran{
+    position: absolute;
+    top: 250px;
+    left: 870px;
+}
+#cais{
+    position: absolute;
+    top: 290px;
+    left: 850px;
+}
+#ita{
+    position: absolute;
+    top: 320px;
+    left: 500px;
+}
+#liano{
+    position: absolute;
+    top: 360px;
+    left: 490px;
+}
+#japa{
+    position: absolute;
+    top: 320px;
+    left: 880px;
+}
+#ish{
+    position: absolute;
+    top: 360px;
+    left: 860px;
+}
+#port{
+    position: absolute;
+    top: 380px;
+    left: 540px;
+}
+#ugues{
+    position: absolute;
+    top: 420px;
+    left: 520px;
+}
+#ara{
+    position: absolute;
+    top: 380px;
+    left: 850px;
+}
+#bic{
+    position: absolute;
+    top: 420px;
+    left: 820px;
+}
+.input{
+    height: 33px;
+    width: 370px;
+    position: absolute;
+    top: 503px;
+    left: 500px;
+    border: thick solid blue;
+}
+.img{
+    position: absolute;
+    top: 500px;
+    left: 870px;
+}
+.float{
+    float: left;
+}
+.div{
+    position: absolute;
+    top: 600px;
+    padding: 20px 100px;
+}
+#two{
+    border: thin solid red;
+}
+#id{
+    color: blue;
+}
+
+
+ 
+
+
+ 
+
